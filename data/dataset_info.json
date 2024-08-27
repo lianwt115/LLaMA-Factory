@@ -1,4 +1,32 @@
 {
+  "xy_full_2734": {
+    "file_name": "xy_full_2734.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "xy_xmind_full_9940": {
+    "file_name": "xy_xmind_full_9940.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+
+  "ctd_xiangayng_dpo": {
+    "file_name": "ctd_xiangayng_dpo.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
