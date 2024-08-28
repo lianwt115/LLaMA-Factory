@@ -15,6 +15,14 @@
       "response": "output",
       "system": "system"
     }
+  },"xy_xmind_full_True_9940_2": {
+    "file_name": "xy_xmind_full_True_9940_2.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
   },
 
   "ctd_xiangayng_dpo": {
