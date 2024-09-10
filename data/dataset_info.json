@@ -1,22 +1,62 @@
 {
-  "xy_full_2734": {
-    "file_name": "xy_full_2734.json",
+  "shareJson_Month_All_etf_791": {
+    "file_name": "shareJson_Month_All_etf_791.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
       "response": "output",
       "system": "system"
     }
-  }, "xy_xmind_full_9940": {
-    "file_name": "xy_xmind_full_9940.json",
+  },  "shareJson_Month_All_h_3564": {
+    "file_name": "shareJson_Month_All_h_3564.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
       "response": "output",
       "system": "system"
     }
-  },"xy_xmind_full_True_9940_2": {
-    "file_name": "xy_xmind_full_True_9940_2.json",
+  },  "shareJson_Month_All_sh_6810": {
+    "file_name": "shareJson_Month_All_sh_6810.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },  "shareJson_Month_All_sz_4951": {
+    "file_name": "shareJson_Month_All_sz_4951.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },  "shareJson_Week_All_etf_5295": {
+    "file_name": "shareJson_Week_All_etf_5295.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Week_All_h_25289": {
+    "file_name": "shareJson_Week_All_h_25289.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },"shareJson_Week_All_sh_44513": {
+    "file_name": "shareJson_Week_All_sh_44513.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },"shareJson_Week_All_sz_32080": {
+    "file_name": "shareJson_Week_All_sz_32080.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -37,6 +77,23 @@
   },
   "identity": {
     "file_name": "identity.json"
+  },
+  "shareJson_Week_All3F_19786": {
+    "file_name": "shareJson_Week_All3F_19786.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },"shareJson_Week_All3_106655": {
+    "file_name": "shareJson_Week_All3_106655.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
   },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
