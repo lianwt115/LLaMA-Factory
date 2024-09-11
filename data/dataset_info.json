@@ -7,6 +7,14 @@
       "response": "output",
       "system": "system"
     }
+  },  "002044_211_Week": {
+    "file_name": "002044_211_Week.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
   }, "shareJson_Week_AllNew_h_25232": {
     "file_name": "shareJson_Week_AllNew_h_25232.json",
     "columns": {
