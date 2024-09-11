@@ -1,7 +1,31 @@
 {
 
-  "shareJson_Week_AllNew_h_25413": {
-    "file_name": "shareJson_Week_AllNew_h_25413.json",
+  "shareJson_Week_AllX3_etf_5317": {
+    "file_name": "shareJson_Week_AllX3_etf_5317.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Week_AllX3_h_25232": {
+    "file_name": "shareJson_Week_AllX3_h_25232.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Week_AllX3_sh_44578": {
+    "file_name": "shareJson_Week_AllX3_sh_44578.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Week_AllX3_sz_32119": {
+    "file_name": "shareJson_Week_AllX3_sz_32119.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
