@@ -1,5 +1,37 @@
 {
-  "shareJson_Month_All_etf_791": {
+  "shareJson_Week_AllNew_etf_5317": {
+    "file_name": "shareJson_Week_AllNew_etf_5317.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Week_AllNew_h_25232": {
+    "file_name": "shareJson_Week_AllNew_h_25232.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Week_AllNew_sh_44578": {
+    "file_name": "shareJson_Week_AllNew_sh_44578.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Week_AllNew_sz_32117": {
+    "file_name": "shareJson_Week_AllNew_sz_32117.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  }, "shareJson_Month_All_etf_791": {
     "file_name": "shareJson_Month_All_etf_791.json",
     "columns": {
       "prompt": "instruction",
