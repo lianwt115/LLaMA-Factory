@@ -1,45 +1,5 @@
 {
-  "shareJson_Day_AllX6New_etfJSON_45K": {
-    "file_name": "shareJson_Day_AllX6New_etfJSON_45K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Day_AllX6New_hJSON_581K": {
-    "file_name": "shareJson_Day_AllX6New_hJSON_581K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Day_AllX6New_shJSON_695K": {
-    "file_name": "shareJson_Day_AllX6New_shJSON_695K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Day_AllX6New_szJSON_783K": {
-    "file_name": "shareJson_Day_AllX6New_szJSON_783K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Day_AllX6New_testJSON_126K": {
-    "file_name": "shareJson_Day_AllX6New_testJSON_126K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Month_AllX6New_etfJSON_1K": {
+  "shareJson_Month_AllX6New_etfJSON_1K": {
     "file_name": "shareJson_Month_AllX6New_etfJSON_1K.json",
     "columns": {
       "prompt": "instruction",
@@ -47,8 +7,8 @@
       "response": "output",
       "system": "system"
     }
-  },"shareJson_Month_AllX6New_hJSON_20K": {
-    "file_name": "shareJson_Month_AllX6New_hJSON_20K.json",
+  },"shareJson_Month_AllX6New_hJSON_19K": {
+    "file_name": "shareJson_Month_AllX6New_hJSON_19K.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -71,48 +31,9 @@
       "response": "output",
       "system": "system"
     }
-  },"shareJson_Month_AllX6New_testJSON_27K": {
-    "file_name": "shareJson_Month_AllX6New_testJSON_27K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Week_AllX6New_etfJSON_10K": {
-    "file_name": "shareJson_Week_AllX6New_etfJSON_10K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Week_AllX6New_hJSON_119K": {
-    "file_name": "shareJson_Week_AllX6New_hJSON_119K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Week_AllX6New_shJSON_138K": {
-    "file_name": "shareJson_Week_AllX6New_shJSON_138K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Week_AllX6New_szJSON_157K": {
-    "file_name": "shareJson_Week_AllX6New_szJSON_157K.json",
-    "columns": {
-      "prompt": "instruction",
-      "query": "input",
-      "response": "output",
-      "system": "system"
-    }
-  },"shareJson_Week_AllX6New_testJSON_63K": {
-    "file_name": "shareJson_Week_AllX6New_testJSON_63K.json",
+  },
+  "shareJson_Month_AllX6New_testJSON_29K": {
+    "file_name": "shareJson_Month_AllX6New_testJSON_29K.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
